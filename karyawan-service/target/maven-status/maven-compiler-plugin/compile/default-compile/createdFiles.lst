@@ -1,0 +1,5 @@
+com\zaidan\karyawan\service\KaryawanServiceApplication.class
+com\zaidan\karyawan\service\service\KaryawanService.class
+com\zaidan\karyawan\service\controller\KaryawanController.class
+com\zaidan\karyawan\service\entity\Karyawan.class
+com\zaidan\karyawan\service\repository\KaryawanRepository.class
